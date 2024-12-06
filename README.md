@@ -11,6 +11,11 @@
 
 ---
 
+## **Video**  
+[**Ver el video en YouTube**](https://youtu.be/uThvUOYUAAA) 
+
+---
+
 ## **Dataset**  
 El proyecto utiliza el conjunto de datos **Acne Grading Classification Dataset** disponible en Kaggle.  
 [**Accede al dataset aquí.**](https://www.kaggle.com/datasets/rutviklathiyateksun/acne-grading-classificationdataset)  
