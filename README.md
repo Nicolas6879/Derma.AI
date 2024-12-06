@@ -2,8 +2,7 @@
 ![Derma.AI](Banner_Derma_AI.png)  
 
 **Autores:**  
-- Juan Nicolás García Vega  
-- Miguel Enrique Quintero Suárez  
+- Juan Nicolás García Vega, Miguel Enrique Quintero Suárez  
 
 ---
 
